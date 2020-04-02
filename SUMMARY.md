@@ -2,6 +2,7 @@
 
 * [安卓](Android/README.md)
   * [第一天](Android/One.md)
+  * [Module使用](Android/module使用.md)
 * [Golang](Go/README.md)
   * [第一天](Go/One.md)
   * [变量](Go/Variable.md)
