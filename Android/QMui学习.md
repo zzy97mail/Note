@@ -114,7 +114,7 @@ public void initTopBar(){
 
 最后在`onCreate`方法或其他调用方式调用一下，就会出现一个TopBar，如图。
 
-![image-20200428160648504](img\image-20200428160648504.png)
+![image-20200428160648504](img/image-20200428160648504.png)
 
 需要注意的是，这个返回按钮默认是没有功能的，需要我们给他添加一个点击监听事件。
 
@@ -194,7 +194,7 @@ new QMUIDialog.MessageDialogBuilder(this)
 
 > 运行结果
 
-![image-20200428164651186](img\image-20200428164651186.png)
+![image-20200428164651186](img/image-20200428164651186.png)
 
 #### 带 CheckBox 的消息确认框
 
@@ -235,7 +235,7 @@ _这里有一点要注意，先通过new的方式获取builder的对象，然后
 
 > 运行
 
-![image-20200428164920155](img\image-20200428164920155.png)
+![image-20200428164920155](img/image-20200428164920155.png)
 
 #### 带输入框的对话框
 
@@ -278,5 +278,5 @@ final QMUIDialog.EditTextDialogBuilder builder = new QMUIDialog.EditTextDialogBu
 
 > 运行
 
-![image-20200428165152498](img\image-20200428165152498.png)
+![image-20200428165152498](img/image-20200428165152498.png)
 
